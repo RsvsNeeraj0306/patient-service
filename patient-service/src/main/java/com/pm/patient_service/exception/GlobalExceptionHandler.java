@@ -31,7 +31,7 @@ public class GlobalExceptionHandler {
 
         
         Map<String, String> error = new HashMap<>();
-        error.put("message","Email already exists: " + ex.getMessage());
+        error.put("message", ex.getMessage());
         return ResponseEntity.badRequest().body(error);
     }
 

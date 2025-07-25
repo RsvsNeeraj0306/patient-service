@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "formulahendry.docker-explorer",
+        "ms-azuretools.vscode-docker"
+    ]
+}

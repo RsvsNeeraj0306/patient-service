@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
